@@ -1,5 +1,5 @@
 package com.healthycoderapp;
-//Something
+//Possible Genders
 public enum Gender {
 	MALE, FEMALE
 }
